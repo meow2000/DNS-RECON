@@ -8,6 +8,7 @@
 
   # Command-line options
 
+''' noLineNumbers
   usage: dns_lookup -h -u -l -o -d [DNS] -rv [R-DNS] -v
 
 Python DNS and reverse DNS lookup by: Cypher
@@ -21,3 +22,4 @@ options:
   -rv RDNS, --rdns RDNS
                         For reverse DNS
   -v, --verssion        Show program verssion
+  '''
